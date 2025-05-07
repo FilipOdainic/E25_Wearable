@@ -32,6 +32,6 @@ Chacun de ces répertoires contient de la documentation de départ pour vous gui
 ### Ressources supplémentaires
 
 - Si vous avez des questions ou avez besoin d'aide, n'hésitez pas à nous contacter.
-- Rejoignez notre canal Discord pour discuter avec d'autres participants et obtenir des conseils et des astuces.
+- Rejoignez notre canal [Discord](https://discord.gg/NpGTQ8huT9) pour discuter avec d'autres participants et obtenir des conseils et des astuces. 
 
 Nous vous souhaitons bonne chance et avons hâte de voir vos créations !
