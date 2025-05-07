@@ -22,7 +22,7 @@ Chacun de ces répertoires contient de la documentation de départ pour vous gui
 3. Sélectionnez votre propre compte GitHub comme destination du fork.
 4. Clonez le dépôt forké sur votre machine locale en utilisant la commande suivante :
    ```bash
-   git clone https://github.com/<votre-utilisateur>/H25_Pomodoro.git
+   git clone https://github.com/<votre-utilisateur>/E25_Wearable.git
    ```
 
 ### Déroulement suggéré
